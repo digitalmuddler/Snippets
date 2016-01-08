@@ -1,5 +1,5 @@
-#ifndef convert
-#define convert
+#ifndef __CONVERT_H_INCLUDED__
+#define __CONVERT_H_INCLUDED__
 
 // Temperature Conversion
 
