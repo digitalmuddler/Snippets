@@ -12,7 +12,7 @@ double CelsiusToFahrenheit ( double x ) { return 9.0 / 5.0 * ( x + 32 ); }
 double CelsiusToKelvin ( double x ) { return x + 273.15; }
 
 // from Kelvin
-double KelvinToFahrenheit (double x ) { return x - 459.67; }
+double KelvinToFahrenheit (double x ) { return x - 459.67; }  // don't believe this is correct ?
 double KelvinToCelsius ( double x ) { return x - 273.15; }
 
 
